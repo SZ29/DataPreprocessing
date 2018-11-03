@@ -1,9 +1,7 @@
-DataPreprocessing
+**DATA PREPROCESSING**
 
 This repository contains different pre-processing techniques used to tune your data according to the machine learning algorithm you use.
-
-HOT ENCODING AND LABEL ENCODING
-
+***LABEL ENCODING AND ONE-HOT ENCODING***
 Categorical data is not accepted by some one the machine learning and deep learning algorithms
 However we can make it work by converting this type of data into numerical data to benefit from the
 power of those classifiers.
